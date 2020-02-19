@@ -1,3 +1,4 @@
 {
-"dsfgh": "data"
+  "code":"AuthenticationError",
+  "message":"Not logged in"
 }
