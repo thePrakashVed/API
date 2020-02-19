@@ -1,4 +1,7 @@
-{
-  "code":"AuthenticationError",
-  "message":"Not logged in"
-}
+"formdata": [{
+		"key": "document",
+		"value": null,
+		"type": "file",
+		"src": "SampleImage.jpg"
+	}
+]
